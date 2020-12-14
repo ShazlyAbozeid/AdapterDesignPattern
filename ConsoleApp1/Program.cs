@@ -41,7 +41,7 @@ namespace ConsoleApp1
                     public string AnswerFortheQuestion(string Words)
                     {
                         string reply = null;
-                        if (Words.Equals("where are you?", StringComparison.InvariantCultureIgnoreCase))
+                        if (Words.Equals("where are you", StringComparison.InvariantCultureIgnoreCase))
                         {
                             reply = "I am in USA";
                         }
@@ -60,7 +60,7 @@ namespace ConsoleApp1
                     public string AnswerFortheQuestion(string Words)
                     {
                         string reply = null;
-                        if (Words.Equals("comment allez-vous?", StringComparison.InvariantCultureIgnoreCase))
+                        if (Words.Equals("comment allez - vous", StringComparison.InvariantCultureIgnoreCase))
                         {
                             reply = "Je suis très bien";
                         }

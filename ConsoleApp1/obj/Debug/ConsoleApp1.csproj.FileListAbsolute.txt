@@ -5,3 +5,10 @@ C:\Users\shazly\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAsse
 C:\Users\shazly\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\shazly\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\shazly\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+L:\Github\AdapterDesignPattern\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+L:\Github\AdapterDesignPattern\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+L:\Github\AdapterDesignPattern\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+L:\Github\AdapterDesignPattern\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+L:\Github\AdapterDesignPattern\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+L:\Github\AdapterDesignPattern\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+L:\Github\AdapterDesignPattern\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
